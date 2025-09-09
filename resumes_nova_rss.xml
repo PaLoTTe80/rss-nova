@@ -35,5 +35,15 @@
         <h3>Régulation</h3> Rien de nouveau ce jour.
       ]]></description>
     </item>
+
+    <item>
+      <title>Résumé test — 9 septembre 2025 bis</title>
+      <link>https://palotte80.github.io/rss-nova/test-0909.html</link>
+      <guid>test-2025-09-09</guid>
+      <pubDate>Tue, 09 Sep 2025 18:00:00 +0200</pubDate>
+      <description><![CDATA[
+        Ceci est un test pour vérifier le déclenchement de l'Applet IFTTT.
+      ]]></description>
+    </item>
   </channel>
 </rss>
