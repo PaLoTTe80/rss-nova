@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Résumés quotidiens — Politique & Tech</title>
+    <link>https://palotte80.github.io/rss-nova/</link>
+    <description>Flux RSS contenant les résumés quotidiens (politique mondiale et technologies)</description>
+    <language>fr</language>
+    <lastBuildDate>Tue, 09 Sep 2025 08:00:00 +0200</lastBuildDate>
+
+    <item>
+      <title>Résumé politique — 9 septembre 2025</title>
+      <link>https://palotte80.github.io/rss-nova/resume-politique-2025-09-09.html</link>
+      <guid>resume-politique-2025-09-09</guid>
+      <pubDate>Tue, 09 Sep 2025 08:00:00 +0200</pubDate>
+      <description><![CDATA[
+        <h3>Diplomatie</h3> Propositions de Xi aux BRICS (8/09). Incident flottille humanitaire (8→9/09).<br/>
+        <h3>Élections</h3> Norvège : législatives (8/09), Samoa : résultats confirmés.<br/>
+        <h3>Commerce/Politique</h3> France : démission du PM François Bayrou (9/09).<br/>
+        <h3>Manifestations</h3> Népal : 19 morts lors de heurts (8/09).<br/>
+        <h3>Autres</h3> Thaïlande : Thaksin Shinawatra incarcéré (9/09).
+      ]]></description>
+    </item>
+
+
+    <item>
+      <title>Résumé techno — 9 septembre 2025</title>
+      <link>https://palotte80.github.io/rss-nova/resume-tech-2025-09-09.html</link>
+      <guid>resume-tech-2025-09-09</guid>
+      <pubDate>Tue, 09 Sep 2025 08:00:00 +0200</pubDate>
+      <description><![CDATA[
+        <h3>IA & Puces</h3> ASML entre au comité stratégique de Mistral AI (9/09).<br/>
+        <h3>Gadgets</h3> Apple : lancement iPhone 17, AirPods 3, Apple Watch 11 (9/09).<br/>
+        <h3>Logiciels</h3> Windows 11 : mise à jour de septembre (9/09).<br/>
+        <h3>Cybersécurité</h3> Pas de nouveauté majeure.<br/>
+        <h3>Régulation</h3> Rien de nouveau ce jour.
+      ]]></description>
+    </item>
+  </channel>
+</rss>
