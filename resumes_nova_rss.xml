@@ -5,45 +5,47 @@
     <link>https://palotte80.github.io/rss-nova/</link>
     <description>Flux RSS contenant les résumés quotidiens (politique mondiale et technologies)</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 09 Sep 2025 08:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 08:00:00 +0200</lastBuildDate>
 
+    <!-- Résumé politique -->
     <item>
-      <title>Résumé politique — 9 septembre 2025</title>
-      <link>https://palotte80.github.io/rss-nova/resume-politique-2025-09-09.html</link>
-      <guid>resume-politique-2025-09-09</guid>
-      <pubDate>Tue, 09 Sep 2025 08:00:00 +0200</pubDate>
+      <title>Résumé politique — 10 septembre 2025</title>
+      <link>https://palotte80.github.io/rss-nova/resume-politique-2025-09-10.html</link>
+      <guid>resume-politique-2025-09-10</guid>
+      <pubDate>Wed, 10 Sep 2025 08:00:00 +0200</pubDate>
       <description><![CDATA[
-        <h3>Diplomatie</h3> Propositions de Xi aux BRICS (8/09). Incident flottille humanitaire (8→9/09).<br/>
-        <h3>Élections</h3> Norvège : législatives (8/09), Samoa : résultats confirmés.<br/>
-        <h3>Commerce/Politique</h3> France : démission du PM François Bayrou (9/09).<br/>
-        <h3>Manifestations</h3> Népal : 19 morts lors de heurts (8/09).<br/>
-        <h3>Autres</h3> Thaïlande : Thaksin Shinawatra incarcéré (9/09).
+        <h3>Diplomatie / Conflits</h3>
+        Israël frappe le Hamas au Qatar (9/09) ; Trump critique l'opération.<br/>
+        <h3>Élections</h3>
+        Samoa : victoire du parti FAST (4/09) ; vagues de démissions politiques (UK, Japon, France, Indonésie).<br/>
+        <h3>Commerce / Politique</h3>
+        Hausse des prix du pétrole le 10/09 après tensions au Qatar.<br/>
+        <h3>Manifestations</h3>
+        France : mobilisation "Bloquons Tout" (10/09) ; Népal : démission du PM après violences (9/09).<br/>
+        <h3>Autres</h3>
+        France : Sébastien Lecornu nommé Premier ministre (10/09).
       ]]></description>
     </item>
 
-
+    <!-- Résumé techno -->
     <item>
-      <title>Résumé techno — 9 septembre 2025</title>
-      <link>https://palotte80.github.io/rss-nova/resume-tech-2025-09-09.html</link>
-      <guid>resume-tech-2025-09-09</guid>
-      <pubDate>Tue, 09 Sep 2025 08:00:00 +0200</pubDate>
+      <title>Résumé techno — 10 septembre 2025</title>
+      <link>https://palotte80.github.io/rss-nova/resume-tech-2025-09-10.html</link>
+      <guid>resume-tech-2025-09-10</guid>
+      <pubDate>Wed, 10 Sep 2025 08:00:00 +0200</pubDate>
       <description><![CDATA[
-        <h3>IA & Puces</h3> ASML entre au comité stratégique de Mistral AI (9/09).<br/>
-        <h3>Gadgets</h3> Apple : lancement iPhone 17, AirPods 3, Apple Watch 11 (9/09).<br/>
-        <h3>Logiciels</h3> Windows 11 : mise à jour de septembre (9/09).<br/>
-        <h3>Cybersécurité</h3> Pas de nouveauté majeure.<br/>
-        <h3>Régulation</h3> Rien de nouveau ce jour.
+        <h3>IA & Puces</h3>
+        Arm lance Lumex CSS (10/09), 5x perfs IA on-device.<br/>
+        <h3>Gadgets</h3>
+        Apple lance iPhone 17, AirPods Pro 3, Apple Watch 11 (9/09) ; innovations de l’IFA Berlin.<br/>
+        <h3>Logiciels</h3>
+        iOS 26 annoncé pour le 15/09 (Liquid Glass UI, TLS post-quantique).<br/>
+        <h3>Cybersécurité</h3>
+        Pas de nouveauté majeure signalée.<br/>
+        <h3>Régulation</h3>
+        Pas d’annonce notable aujourd’hui.
       ]]></description>
     </item>
 
-    <item>
-      <title>Résumé test — 9 septembre 2025 bis</title>
-      <link>https://palotte80.github.io/rss-nova/test-0909.html</link>
-      <guid>test-2025-09-09</guid>
-      <pubDate>Tue, 09 Sep 2025 18:00:00 +0200</pubDate>
-      <description><![CDATA[
-        Ceci est un test pour vérifier le déclenchement de l'Applet IFTTT.
-      ]]></description>
-    </item>
   </channel>
 </rss>
